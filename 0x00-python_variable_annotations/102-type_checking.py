@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Annotations mehn!"""
 
 from typing import List, Tuple
